@@ -1,0 +1,10 @@
+C:\work\C\BookMs\BookMs\bin\Release\BookMs.exe.config
+C:\work\C\BookMs\BookMs\bin\Release\BookMs.exe
+C:\work\C\BookMs\BookMs\bin\Release\BookMs.pdb
+C:\work\C\BookMs\BookMs\obj\Release\BookMs.csproj.AssemblyReference.cache
+C:\work\C\BookMs\BookMs\obj\Release\BookMs.Form1.resources
+C:\work\C\BookMs\BookMs\obj\Release\BookMs.Properties.Resources.resources
+C:\work\C\BookMs\BookMs\obj\Release\BookMs.csproj.GenerateResource.cache
+C:\work\C\BookMs\BookMs\obj\Release\BookMs.csproj.CoreCompileInputs.cache
+C:\work\C\BookMs\BookMs\obj\Release\BookMs.exe
+C:\work\C\BookMs\BookMs\obj\Release\BookMs.pdb
